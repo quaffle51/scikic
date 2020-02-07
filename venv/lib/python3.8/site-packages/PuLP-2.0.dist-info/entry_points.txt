@@ -1,0 +1,5 @@
+
+      [console_scripts]
+      pulptest = tests.run_tests:pulpTestAll
+      # pulpdoctest = pulp:pulpDoctest
+      

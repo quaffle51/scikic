@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: nlopt
+Version: 2.6.1
+Summary: Library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization
+Home-page: https://nlopt.readthedocs.io/en/latest/
+Maintainer: Daniel Bok
+Maintainer-email: daniel.bok@outlook.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.6
+Requires-Dist: numpy (>=1.14)
+
+NLOpt Python
+============
+
+This project setups a tool chain to build pypi wheels for the NLOpt library. NLOpt contains various routines for non-linear optimization.
+
+If you find that your distribution is not supported, raise an issue or better, send in a pull request. :) 
+
+## Versions supported
+
+The project supports Python versions 3.6 and above.
+
+## Installation
+
+```bash
+pip install nlopt
+```
+
+## Documentation
+
+For more information on how to use NLOpt with python, refer to the [documentation](https://nlopt.readthedocs.io/en/latest/NLopt_Python_Reference/).
+
+
+
